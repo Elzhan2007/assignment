@@ -9,8 +9,8 @@ ii. We implemented 4 algorithms:
 
 
 #### Merge Sort
+``` java
 import java.util.Arrays;
-
 public class mergesort {
 
     public static int[] mergeSort(int[] arr) {
@@ -58,7 +58,6 @@ public class mergesort {
 
 #### Merge Sort with Time and Recursion Depth Measurement
 import java.util.Arrays;
-
 public class MergeSortWithMetrics {
 
     private static int recursionDepth = 0;
@@ -119,7 +118,6 @@ public class MergeSortWithMetrics {
 
 #### Quick Sort
 import java.util.Random;
-
 public class QuickSortt {
     
     public static int partition(int[] arr, int low, int high) {
@@ -170,7 +168,6 @@ public class QuickSortt {
 
 #### Deterministic select
 import java.util.Arrays;
-
 public class select {
 
     public static int medianOfMedians(int[] arr) {
