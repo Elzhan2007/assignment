@@ -55,8 +55,9 @@ public class mergesort {
     }
 }
 
-
+```
 #### Merge Sort with Time and Recursion Depth Measurement
+``` java
 import java.util.Arrays;
 public class MergeSortWithMetrics {
 
@@ -115,8 +116,9 @@ public class MergeSortWithMetrics {
 }
 
 
-
+```
 #### Quick Sort
+``` java
 import java.util.Random;
 public class QuickSortt {
     
@@ -166,7 +168,9 @@ public class QuickSortt {
     }
 }
 
+```
 #### Deterministic select
+``` java
 import java.util.Arrays;
 public class select {
 
@@ -233,7 +237,9 @@ public class select {
     }
 }
 
+```
 #### Closest pair of points
+``` java
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.ArrayList;
@@ -323,8 +329,9 @@ public class ClosestPairOfPoints {
 }
 
 
-
+```
 # **Divide-and-Conquer Algorithms - Report**
+``` java
 
 ## **1. Architecture Notes**
 
