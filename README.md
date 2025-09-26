@@ -1,11 +1,11 @@
 #### Assignment 1
 
-// Implemented algorithms
-// We implemented 4 algorithms:
-// 1. Merge Sort
-// 2. Quick Sort
-// 3. Deterministic Select (Median-of-Medians)
-// 4. Closest Pair of Points (2D)
+i. Implemented algorithms
+ii. We implemented 4 algorithms:
+1. Merge Sort
+2. Quick Sort
+3. Deterministic Select (Median-of-Medians)
+4. Closest Pair of Points (2D)
 
 
 #### Merge Sort
