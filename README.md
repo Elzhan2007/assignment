@@ -1,7 +1,7 @@
 #### Assignment 1
 
 i. Implemented algorithms
-ii. We implemented 4 algorithms:
+
 1. Merge Sort
 2. Quick Sort
 3. Deterministic Select (Median-of-Medians)
